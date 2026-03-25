@@ -10,11 +10,9 @@ see readme for information
 
 included:
 
-linux version (first created)
-
-windows version 
-
-lin + win version, which cross compiles.
+- linux version (first created)
+- windows version
+- lin + win version, which cross compiles.
 
 all have same options, and should work the same.
 
