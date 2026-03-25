@@ -18,4 +18,4 @@ all have same options, and should work the same.
 
 if on linux just use linux version.
 
-
+source and binary (exe for windows) files included
