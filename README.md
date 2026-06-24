@@ -6,7 +6,7 @@ simple web browser that logs accessed urls in log file
 
 you can use it from command line, or not.
 
-source and binary files included
+source and binary files included (win and lin-win versions are no longer updated after 2026-04-05-1)
 
 see readme for more info.
 
