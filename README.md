@@ -16,7 +16,7 @@ see readme for more info.
 2026-06-24-01-24-45  
 added switches:  
  -logalltypes  
- -blockdomain=domain1,domain2  
+ -blockdomain=domain1.com,domain2.com
  -js=*, or -js=.mpd  
 win and lin-win versions are no longer updated after 2026-04-05-1, if there is interest for it, let me know.  
 
